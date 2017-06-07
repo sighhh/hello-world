@@ -1,2 +1,4 @@
 # hello-world
-going through tutorial 
+
+There's not really much to say about myself. 
+I'm very boring.
